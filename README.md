@@ -1,2 +1,3 @@
 # zinewebdev-project
-for zine project on web development
+for zine project on web development 
+author-yaduvar
